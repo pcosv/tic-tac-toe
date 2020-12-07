@@ -1,2 +1,2 @@
-# tic-tac-toe-react
+# tic-tac-toe
 Repo aiming to learn React
